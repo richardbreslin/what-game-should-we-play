@@ -5,7 +5,7 @@
   "main": "dist/server.js",
   "scripts": {
     "build": "tsc",
-    "start": "tsc & node .",
+    "start_prod": "tsc & node .",
     "dev": "tsc -w & nodemon ."
   },
   "author": "",
